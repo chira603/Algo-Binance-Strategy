@@ -84,12 +84,7 @@ These results confirm the effectiveness of EMA-based cycle strategies for crypto
 - **Cycle-Based Risk Management**: Both strategies use cycle logic for profit and loss control.
 - **Attractive Output**: Console summaries are easy to read and interpret for research or presentation.
 
----
 
-## Screenshots
-> ![Sample Output](https://user-images.githubusercontent.com/placeholder/sample-output.png)
-
----
 
 ## Author & License
 **Developed by:** Chirag (2025)
