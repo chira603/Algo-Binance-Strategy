@@ -86,16 +86,11 @@ These results confirm the effectiveness of EMA-based cycle strategies for crypto
 
 
 
-## Author & License
-**Developed by:** Chirag (2025)
+## Author
+**Developed by:** Chirag Patel
 
-**License:** MIT
 
----
 
-## Contact
-For questions, improvements, or collaboration, feel free to reach out!
 
----
 
 > _"Algorithmic trading is not just about code—it's about disciplined logic and continuous improvement."_
